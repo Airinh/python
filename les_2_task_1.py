@@ -25,4 +25,4 @@ while True:
         else:
             print(f'{x / y:.1f}')
     else:
-        print("Неверный знак операции!")
+        print('Неверный знак операции!')
